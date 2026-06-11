@@ -1,4 +1,4 @@
-#Project: Frontend Development — Course exercises and projects
+# Project: Frontend Development — Course exercises and projects
 
 Overview
 
